@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TipTextField'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TipTextField.'
+  s.summary          = 'A UITextField class in Swift that helps the user show a validation message right under the textField.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,10 +24,8 @@ A UITextField class in Swift that helps the user show a validation message right
   s.homepage         = 'https://github.com/chinesejian/TipTextField'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chinesejian' => 'jason@interactivelabs.co' }
+  s.author           = { 'jason huang' => 'jason@interactivelabs.co' }
   s.source           = { :git => 'https://github.com/chinesejian/TipTextField.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'TipTextField/Classes/**/*'
