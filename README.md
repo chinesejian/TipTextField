@@ -23,7 +23,7 @@ pod 'TipTextField'
 
 ## Author
 
-chinesejian, jason@interactivelabs.co
+jason huang
 
 ## License
 
