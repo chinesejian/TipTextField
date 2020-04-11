@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+A UITextField class in Swift that helps the user show a validation message right under the textField.
                        DESC
 
   s.homepage         = 'https://github.com/chinesejian/TipTextField'
