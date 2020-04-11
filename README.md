@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/TipTextField.svg?style=flat)](https://cocoapods.org/pods/TipTextField)
 [![Platform](https://img.shields.io/cocoapods/p/TipTextField.svg?style=flat)](https://cocoapods.org/pods/TipTextField)
 
+A UITextField class in Swift that helps the user show a validation message right under the textField.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
